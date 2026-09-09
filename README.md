@@ -79,6 +79,7 @@ Executive KPIs and commercial performance summary.
 ### Geographic Performance
 
 Sales distribution across Ecuador including cities, provinces, and commercial clusters.
+![Geographic Performance](Images/GeographicPerformance.png)
 
 ### Product Performance
 
