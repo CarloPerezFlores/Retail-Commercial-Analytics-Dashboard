@@ -73,6 +73,7 @@ The solution consolidates **5.44 million retail transactions** into interactive 
 ### Executive Overview
 
 Executive KPIs and commercial performance summary.
+![Executive Overview](Images/ExecutiveOverview.png)
 
 ### Geographic Performance
 
