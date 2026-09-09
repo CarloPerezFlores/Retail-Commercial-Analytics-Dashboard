@@ -185,9 +185,16 @@ Executive commercial findings and recommendations based on interactive KPI analy
 
 ## Business Impact
 
-This dashboard enables commercial managers to monitor retail performance through executive KPIs and interactive visualizations.
+This Business Intelligence solution transforms **5.44 million retail transactions** into executive commercial insights through interactive dashboards and KPI monitoring.
 
-The analysis supports assortment optimization, geographic expansion, sales monitoring, customer segmentation, and executive decision-making through a single Business Intelligence solution.
+### Business Value Delivered
+
+* Executive visibility of retail sales performance across stores and cities.
+* Identification of top-performing product families and commercial clusters.
+* Analysis of customer purchasing behavior by weekday and weekend.
+* Geographic insights to support commercial expansion and assortment planning.
+* Centralized KPI reporting for data-driven commercial decision-making.
+
 
 ---
 
