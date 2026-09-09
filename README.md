@@ -92,13 +92,13 @@ Analysis of weekday/weekend behavior, monthly sales trends, promotions, and dema
 ![Demand Drivers](Images/DemandDrivers.png)
 
 ### Customer & Store Insights
-
 Store performance by city, store type, commercial cluster, and transactions.
+
 ![Customer & Store Insights](Images/Customer&StoreInsights.png)
 
 ### Business Insights
-
 Executive commercial findings and recommendations based on interactive KPI analysis.
+
 ![Business Insights](Images/BusinessInsights.png)
 ---
 
