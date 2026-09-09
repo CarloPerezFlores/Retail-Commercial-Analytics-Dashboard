@@ -197,33 +197,36 @@ This Business Intelligence solution transforms **5.44 million retail transaction
 
 
 ---
-
-
 ## Repository Structure
 
 ```text
-Retail-Commercial-Analytics-Dashboard
+Retail-Commercial-Analytics-Dashboard/
 │
-├── Dashboard
-│   └── Retail-Commercial-Analytics-Dashboard.pbix
+├── Dashboard/
+│   └── Retail-Commercial-Analytics-Dashboard.zip
 │
-├── Images
-│   ├── Executive-Overview.png
-│   ├── Geographic-Performance.png
-│   ├── Product-Performance.png
-│   ├── Demand-Drivers.png
-│   ├── Customer-Store-Insights.png
-│   ├── Business-Insights.png
-│   └── Dashboard-Walkthrough.png
+├── Images/
+│   ├── ExecutiveO.png
+│   ├── Executive Overview.png
+│   ├── GeographicPerformance.png
+│   ├── ProductPerformance.png
+│   ├── DemandDrivers.png
+│   ├── Customer&StoreInsights.png
+│   ├── BusinessInsights.png
+│   └── DashboardWalkthrough.png
 │
-├── Python
+├── Python/
 │   └── Retail_Sales_EDA.ipynb
 │
-├── Data
+├── Data/
 │   └── retail_sales_dataset.csv
 │
-└── README.md
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
+
+
 
 ---
 
@@ -231,4 +234,16 @@ Retail-Commercial-Analytics-Dashboard
 
 **Carlo Perez Flores**
 
-Commercial Analytics | Business Intelligence | Power BI | Python | SQL | Supply Chain Analytics
+Senior Commercial Executive transitioning into **Commercial Analytics & Business Intelligence** with expertise in logistics, supply chain, Power BI, SQL, Python, and executive dashboard development.
+
+**Core Skills**
+
+* Commercial Analytics
+* Business Intelligence
+* Power BI
+* DAX
+* Power Query
+* SQL
+* Python
+* Supply Chain Analytics
+* Sales Performance Analytics
