@@ -99,7 +99,7 @@ Store performance by city, store type, commercial cluster, and transactions.
 ### Business Insights
 
 Executive commercial findings and recommendations based on interactive KPI analysis.
-
+![Business Insights](Images/BusinessInsights.png)
 ---
 
 ## Technologies Used
