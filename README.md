@@ -1,5 +1,45 @@
 # Retail Commercial Analytics Dashboard (Power BI)
 
+Executive Business Intelligence dashboard analyzing **25.44 million retail units sold across Ecuador (Q1 2017)** using **Power BI, DAX, Power Query, Python, and Excel**.
+
+---
+
+## Technologies
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-107C41?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Retail Analytics](https://img.shields.io/badge/Retail_Analytics-2563EB?style=for-the-badge)
+
+---
+
+## Executive Summary
+Dashboard Preview
+
+This project analyzes retail sales performance across Ecuador through an executive commercial dashboard built in **Power BI**.
+
+The solution transforms transactional retail data into actionable business insights from six commercial perspectives:
+
+* Executive Overview
+* Geographic Performance
+* Product Performance
+* Demand Drivers
+* Customer & Store Insights
+* Business Insights
+
+The dashboard was designed to help commercial managers identify growth opportunities, optimize product assortment, monitor KPIs, and support data-driven decision making.
+
+
+
+
+
+
+
+
+# Retail Commercial Analytics Dashboard (Power BI)
+
 Executive Power BI dashboard analyzing **25.44 million retail units sold** across Ecuador using **Power BI, DAX, Power Query, Python, and Excel** for commercial analytics.
 
 ---
@@ -24,7 +64,7 @@ The solution consolidates **5.44 million retail transactions** into interactive 
 
 > Six connected Power BI dashboards providing a complete commercial view of retail performance.
 
-(Add Dashboard Walkthrough image here.)
+![Dashboard Walkthrough](Images/DashboardWalkthrough.png)
 
 ---
 
