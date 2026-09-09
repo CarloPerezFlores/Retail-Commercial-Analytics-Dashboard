@@ -84,6 +84,7 @@ Sales distribution across Ecuador including cities, provinces, and commercial cl
 ### Product Performance
 
 Product mix analysis including product families, product classes, and top-selling products.
+![Product Performance](Images/ProductPerformance.png)
 
 ### Demand Drivers
 
