@@ -89,6 +89,7 @@ Product mix analysis including product families, product classes, and top-sellin
 ### Demand Drivers
 
 Analysis of weekday/weekend behavior, monthly sales trends, promotions, and demand drivers.
+![Demand Drivers](Images/DemandDrivers.png)
 
 ### Customer & Store Insights
 
