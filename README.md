@@ -170,11 +170,16 @@ Executive commercial findings and recommendations based on interactive KPI analy
 
 ## Key Business Insights
 
-* Grocery I generated **10.2 million units sold**, representing the largest product family.
-* Non-perishable products account for **75.1%** of total units sold.
-* Weekend sales generated the highest commercial volume.
-* Store Types A and D concentrated the largest sales volume.
-* Sales declined during March, indicating seasonal demand during Q1.
+* 🛒 **Grocery I** generated **10.2 million units sold**, making it the highest-performing product family across the retail network.
+
+* 📦 **Non-perishable products represented 75.1%** of total units sold, while perishables accounted for **24.9%** of the product mix.
+
+* 📅 **Weekend transactions outperformed weekdays**, indicating stronger customer purchasing activity during Saturdays and Sundays.
+
+* 🏪 **Store Types D and A concentrated the highest sales volume**, highlighting the strongest commercial performance across the store network.
+
+* 📉 **Sales volume declined from January to March**, suggesting a seasonal demand pattern during the first quarter of 2017.
+
 
 ---
 
