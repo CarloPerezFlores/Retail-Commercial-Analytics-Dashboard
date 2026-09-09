@@ -58,6 +58,34 @@ The solution consolidates **5.44 million retail transactions** into interactive 
 * Which store types and commercial clusters perform best?
 * What seasonal trends affect commercial performance?
 
+
+---
+
+## Business Problem
+
+Retail organizations generate millions of sales transactions every day, making it difficult for commercial teams to consolidate operational data into executive KPIs and actionable insights.
+
+This dashboard helps commercial managers identify sales opportunities across products, cities, stores, and customer purchasing behavior through a single Business Intelligence solution.
+
+---
+
+## Dataset Overview
+
+**Source:** Kaggle — Retail Store Sales Dataset (Ecuador)
+
+| KPI                | Value                         |
+| ------------------ | ----------------------------- |
+| Total Units Sold   | **25.44 Million**             |
+| Total Transactions | **5.44 Million**              |
+| Stores             | **44**                        |
+| Cities             | **19**                        |
+| Provinces          | **15**                        |
+| Product Families   | **21**                        |
+| Product Classes    | **177**                       |
+| Analysis Period    | **January – March 2017 (Q1)** |
+
+---
+
 ---
 
 ## Dashboard Walkthrough
@@ -158,22 +186,6 @@ The analysis supports assortment optimization, geographic expansion, sales monit
 
 ---
 
-## Dataset
-
-**Source:** Kaggle — Retail Store Sales Dataset (Ecuador)
-
-**Period:** January – March 2017
-
-### Coverage
-
-* 44 Stores
-* 19 Cities
-* 15 Provinces
-* 21 Product Families
-* 177 Product Classes
-* 5.44 Million Transactions
-
----
 
 ## Repository Structure
 
