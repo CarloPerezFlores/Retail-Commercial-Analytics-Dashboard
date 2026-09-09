@@ -94,6 +94,7 @@ Analysis of weekday/weekend behavior, monthly sales trends, promotions, and dema
 ### Customer & Store Insights
 
 Store performance by city, store type, commercial cluster, and transactions.
+![Customer & Store Insights](Images/Customer&StoreInsights.png)
 
 ### Business Insights
 
